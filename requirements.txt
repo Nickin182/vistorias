@@ -1,0 +1,3 @@
+streamlit
+Office365-REST-Python-Client
+pandas
